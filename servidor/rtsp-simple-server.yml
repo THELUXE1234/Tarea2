@@ -123,9 +123,10 @@ hlsAllowOrigin: '*'
 # the settings under the path "all" are applied to all paths that do not match
 # another entry.
 paths:
+
   all:
     publishUser: myuser
     publishPass: mypass
-    source: publisher
     readUser: user
     readPass: userpass
+    source: publisher
