@@ -124,7 +124,7 @@ hlsAllowOrigin: '*'
 # another entry.
 paths:
 
-  all:
+  mystream:
     publishUser: myuser
     publishPass: mypass
     readUser: user
