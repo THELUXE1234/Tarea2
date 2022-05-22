@@ -1,0 +1,1 @@
+Cliente publish se encarga de transmitir el archivo al servidor
